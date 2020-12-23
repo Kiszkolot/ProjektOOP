@@ -1,0 +1,13 @@
+{
+  "mapWidth": 30,
+  "mapHeight": 30,
+  "mapJungleWidth": 6,
+  "mapJungleHeight": 6,
+  "grassEatingEnergyProfit": 15,
+  "dayEnergyCost": 1,
+  "copulationEnergy": 15,
+  "startingEnergy": 40,
+  "numberOAnimals": 10,
+  "delay": 100,
+  "numberOGrass": 4
+}
